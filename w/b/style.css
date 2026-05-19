@@ -1,0 +1,25 @@
+body{
+    background-color: #f4f4f4;
+}
+
+/* Sidebar */
+.sidebar{
+    height: 100vh;
+    padding: 20px;
+}
+
+/* Sidebar Links */
+.sidebar .nav-link{
+    margin: 10px 0;
+}
+
+.sidebar .nav-link:hover{
+    background-color: gray;
+    border-radius: 5px;
+}
+
+/* Cards */
+.card{
+    border-radius: 10px;
+    text-align: center;
+}
